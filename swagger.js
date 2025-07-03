@@ -1,5 +1,3 @@
-import { data } from "react-router-dom";
-
 const options = {
   definition: {
     openapi: '3.0.0',
